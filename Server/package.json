@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "GrcoeryShoppingAppDatabase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "omkarServer":"nodemon server.js"
+  },
+  "author": "omkarpoojari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.1.2",
+    "nodemon": "^2.0.15"
+  }
+}
